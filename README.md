@@ -1,5 +1,5 @@
 # RestAPIJavaUtility
-A Java utility for BrowserStack to execute REST API commands. 
+A Java utility for BrowserStack's [REST API](https://www.browserstack.com/automate/rest-api "BrowserStack's REST API"). 
 
 ##How to run
 
